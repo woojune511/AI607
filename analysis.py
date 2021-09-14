@@ -3,8 +3,9 @@ import numpy as np
 from scipy import sparse
 from scipy.sparse.linalg import svds
 import matplotlib.pyplot as plt
+import collections
 
-""" Helper functions for analysis"""
+"""Helper functions for analysis"""
 def drawLogLogPlot(filename, xvalues, yvalues, title='figure', xlabel='x_label', ylabel='y_label'):
     """Draws log-log plot then save as image"""
     plt.figure()
@@ -24,7 +25,13 @@ def getSingularValues(mat, k=100):
 
 def analyzeInDegrees(mat):
     ### TODO: WRITE YOUR CODE HERE. ############################################
-    xs, ys = [], []
+    mat = mat.toarray()
+    indeg_vec = np.sum(mat, axis=0).tolist()
+    counter = collections.Counter(indeg_vec)
+    sorted_counter = sorted(counter.items())
+    xs, ys = list(zip(*sorted_counter))
+    xs, ys = np.array(xs), np.array(ys)
+    # print(f'matrix size: {mat.shape}, maximum degree: {mat.sum(0).max()}, {mat.sum(1).max()}, total number of edges: {mat.sum()}')
     ############################################################################
     drawLogLogPlot('indeg.png', xs, ys)
     pass
@@ -32,7 +39,12 @@ def analyzeInDegrees(mat):
 
 def analyzeOutDegrees(mat):
     ### TODO: WRITE YOUR CODE HERE. ############################################
-    xs, ys = [], []
+    mat = mat.toarray()
+    indeg_vec = np.sum(mat, axis=1).tolist()
+    counter = collections.Counter(indeg_vec)
+    sorted_counter = sorted(counter.items())
+    xs, ys = list(zip(*sorted_counter))
+    xs, ys = np.array(xs), np.array(ys)
     ############################################################################
     drawLogLogPlot('outdeg.png', xs, ys)
     pass
