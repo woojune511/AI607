@@ -6,9 +6,12 @@ import matplotlib.pyplot as plt
 import collections
 
 """Helper functions for analysis"""
-def drawLogLogPlot(filename, xvalues, yvalues, title='figure', xlabel='x_label', ylabel='y_label'):
+def drawLogLogPlot(filename, xvalues, yvalues, title='figure', xlabel='x_label', ylabel='y_label', scale_axes=False):
     """Draws log-log plot then save as image"""
     plt.figure()
+    if scale_axes:
+        plt.xlim([min(xvalues)/1.1 if min(xvalues) != 0 else 1, max(xvalues)*1.1])
+        plt.ylim([min(yvalues)/1.1 if min(yvalues) != 0 else 1, max(yvalues)*1.1])
     plt.xscale('log')
     plt.yscale('log')
     plt.scatter(xvalues, yvalues)
@@ -16,6 +19,8 @@ def drawLogLogPlot(filename, xvalues, yvalues, title='figure', xlabel='x_label',
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
     plt.savefig(filename)
+    # print(f'{min(xvalues), max(xvalues)}, {min(yvalues), max(yvalues)}')
+    # plt.show()
     plt.close()
     
 def getSingularValues(mat, k=100):
@@ -31,9 +36,12 @@ def analyzeInDegrees(mat):
     sorted_counter = sorted(counter.items())
     xs, ys = list(zip(*sorted_counter))
     xs, ys = np.array(xs), np.array(ys)
-    # print(f'matrix size: {mat.shape}, maximum degree: {mat.sum(0).max()}, {mat.sum(1).max()}, total number of edges: {mat.sum()}')
+    # print('Indeg')
+    # print(f'\n{xs} {ys}')
+    # print(f'\n{len(xs)} {len(ys)} {sum(np.array(ys))}\n')
+    # print(f'matrix size: {mat.shape}, maximum degree: {mat.sum(0).max()}, total number of edges: {mat.sum()}')
     ############################################################################
-    drawLogLogPlot('indeg.png', xs, ys)
+    drawLogLogPlot('indeg.png', xs, ys, title='In-Degree', xlabel='in-degree', ylabel='# of nodes', scale_axes=True)
     pass
     
 
@@ -45,14 +53,18 @@ def analyzeOutDegrees(mat):
     sorted_counter = sorted(counter.items())
     xs, ys = list(zip(*sorted_counter))
     xs, ys = np.array(xs), np.array(ys)
+    # print('Outdeg')
+    # print(f'\n{xs} {ys}')
+    # print(f'\n{len(xs)} {len(ys)} {sum(np.array(ys))}\n')
+    # print(f'matrix size: {mat.shape}, maximum degree: {mat.sum(1).max()}, total number of edges: {mat.sum()}')    
     ############################################################################
-    drawLogLogPlot('outdeg.png', xs, ys)
+    drawLogLogPlot('outdeg.png', xs, ys, title='Out-Degree', xlabel='out-degree', ylabel='# of nodes', scale_axes=True)
     pass
     
 def analyzeSingularValues(mat):
     ### TODO: WRITE YOUR CODE HERE. ############################################
     k = 100
-    drawLogLogPlot('svd.png', (np.arange(k) + 1).tolist(), getSingularValues(mat, k=k))
+    drawLogLogPlot('svd.png', (np.arange(k) + 1).tolist(), getSingularValues(mat, k=k), title='Singular Values', xlabel='rank', ylabel='value')
     pass
     ############################################################################
 

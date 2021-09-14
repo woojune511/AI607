@@ -3,30 +3,6 @@ import numpy as np
 from scipy import sparse
 import math
 
-def addRandEdge(A, N, E, probs):
-    # print('\n')
-    # print(type(A))
-    # print('\n')
-    cur_e = 0
-    iter_len = int(math.log(N, 2))
-    while cur_e < E:
-        new_edge = np.random.choice(4, iter_len, p=probs)
-        new_edge_row, new_edge_col = 0, 0
-        for i in range(iter_len):
-            if new_edge[i] == 1:
-                new_edge_col += N / (2 ** (i+1))
-            elif new_edge[i] == 2:
-                new_edge_row += N / (2 ** (i+1))
-            elif new_edge[i] == 3:
-                new_edge_col += N / (2 ** (i+1))
-                new_edge_row += N / (2 ** (i+1))
-        new_edge_row, new_edge_col = int(new_edge_row), int(new_edge_col)
-        # print(f'\n{new_edge_row}  {new_edge_col}\n')
-        if A[new_edge_row][new_edge_col] == 0:
-            cur_e += 1
-            A[new_edge_row][new_edge_col] = 1
-    return A
-
 def genRMat(N, E, probs, output_path):
     print('numNodes:', N)
     print('numEdges:', E)
@@ -34,7 +10,32 @@ def genRMat(N, E, probs, output_path):
     print('output_path:', output_path)
     matrix = np.zeros((N, N), dtype=np.int64)
     
-    ### TODO: WRITE YOUR CODE HERE. YOU SHOULD *NOT* MODIFY THE OTHER PARTS! ###    
+    ### TODO: WRITE YOUR CODE HERE. YOU SHOULD *NOT* MODIFY THE OTHER PARTS! ###
+    def addRandEdge(A, N, E, probs):
+        # print('\n')
+        # print(type(A))
+        # print('\n')
+        cur_e = 0
+        iter_len = int(math.log(N, 2))
+        while cur_e < E:
+            new_edge = np.random.choice(4, iter_len, p=probs)
+            new_edge_row, new_edge_col = 0, 0
+            for i in range(iter_len):
+                if new_edge[i] == 1:
+                    new_edge_col += N / (2 ** (i+1))
+                elif new_edge[i] == 2:
+                    new_edge_row += N / (2 ** (i+1))
+                elif new_edge[i] == 3:
+                    new_edge_col += N / (2 ** (i+1))
+                    new_edge_row += N / (2 ** (i+1))
+            new_edge_row, new_edge_col = int(new_edge_row), int(new_edge_col)
+            # print(f'\n{new_edge_row}  {new_edge_col}\n')
+            if A[new_edge_row][new_edge_col] == 0:
+                cur_e += 1
+                A[new_edge_row][new_edge_col] = 1
+        return A
+        
+           
     matrix = sparse.csr_matrix(matrix)
     matrix = sparse.csr_matrix(addRandEdge(matrix.toarray(), N, E, probs))
     ############################################################################
