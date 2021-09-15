@@ -1,0 +1,172 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.15)  15 SEP 2021 17:33
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/Geonju Lee/AI607/hw1/report.tex"
+(d:/Geonju Lee/AI607/hw1/report.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27> (d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(d:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\c@figure=\count184
+\c@table=\count185
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (d:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (d:/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count186
+\LTcapwidth=\dimen141
+\LT@head=\box50
+\LT@firsthead=\box51
+\LT@foot=\box52
+\LT@lastfoot=\box53
+\LT@gbox=\box54
+\LT@cols=\count187
+\LT@rows=\count188
+\c@LT@tables=\count189
+\c@LT@chunks=\count190
+\LT@p@ftn=\toks19
+) (d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-08-04 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count191
+\l__color_backend_stack_int=\count192
+\g__color_backend_stack_int=\count193
+\g__graphics_track_int=\count194
+\l__pdf_internal_box=\box55
+\g__pdf_backend_object_int=\count195
+\g__pdf_backend_annotation_int=\count196
+\g__pdf_backend_link_int=\count197
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9.
+ (d:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+File: 1S_indeg.png Graphic file (type bmp)
+<1S_indeg.png>
+File: 1S_outdeg.png Graphic file (type bmp)
+<1S_outdeg.png>
+File: 1L_indeg.png Graphic file (type bmp)
+<1L_indeg.png>
+File: 1L_outdeg.png Graphic file (type bmp)
+<1L_outdeg.png>
+File: 2S_indeg.png Graphic file (type bmp)
+<2S_indeg.png>
+File: 2S_outdeg.png Graphic file (type bmp)
+<2S_outdeg.png>
+File: 2L_indeg.png Graphic file (type bmp)
+<2L_indeg.png>
+File: 2L_outdeg.png Graphic file (type bmp)
+<2L_outdeg.png>
+File: 3S_indeg.png Graphic file (type bmp)
+<3S_indeg.png>
+File: 3S_outdeg.png Graphic file (type bmp)
+<3S_outdeg.png>
+File: 3L_indeg.png Graphic file (type bmp)
+<3L_indeg.png>
+File: 3L_outdeg.png Graphic file (type bmp)
+<3L_outdeg.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
+
+Overfull \hbox (15.91202pt too wide) in alignment at lines 17--25
+ [] [] 
+ []
+
+[1
+
+] [2]
+File: 1S_svd.png Graphic file (type bmp)
+<1S_svd.png>
+File: 1L_svd.png Graphic file (type bmp)
+<1L_svd.png>
+File: 2S_svd.png Graphic file (type bmp)
+<2S_svd.png>
+File: 2L_svd.png Graphic file (type bmp)
+<2L_svd.png>
+File: 3S_svd.png Graphic file (type bmp)
+<3S_svd.png>
+File: 3L_svd.png Graphic file (type bmp)
+<3L_svd.png>
+
+Overfull \hbox (15.91202pt too wide) in alignment at lines 34--39
+ [] [] 
+ []
+
+[3] [4] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 1157 strings out of 476533
+ 18840 string characters out of 5821544
+ 316764 words of memory out of 5000000
+ 21566 multiletter control sequences out of 15000+600000
+ 407119 words of font info for 44 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 57i,8n,66p,358b,305s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on report.xdv (4 pages, 9608 bytes).
