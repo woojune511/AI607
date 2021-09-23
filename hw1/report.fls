@@ -1,184 +1,244 @@
-PWD d:/Geonju Lee/AI607/hw1
-INPUT d:/texlive/2021/texmf.cnf
-INPUT d:/texlive/2021/texmf-dist/web2c/texmf.cnf
-INPUT d:/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt
-INPUT d:/Geonju Lee/AI607/hw1/report.tex
-OUTPUT report.log
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT extractbb --version
-INPUT ./report.aux
-INPUT report.aux
-INPUT report.aux
-OUTPUT report.aux
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
-INPUT d:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT ./1S_indeg.png
-INPUT ./1S_indeg.png
-INPUT 1S_indeg.png
-INPUT ./1S_outdeg.png
-INPUT ./1S_outdeg.png
-INPUT 1S_outdeg.png
-INPUT ./1L_indeg.png
-INPUT ./1L_indeg.png
-INPUT 1L_indeg.png
-INPUT ./1L_outdeg.png
-INPUT ./1L_outdeg.png
-INPUT 1L_outdeg.png
-INPUT ./2S_indeg.png
-INPUT ./2S_indeg.png
-INPUT 2S_indeg.png
-INPUT ./2S_outdeg.png
-INPUT ./2S_outdeg.png
-INPUT 2S_outdeg.png
-INPUT ./2L_indeg.png
-INPUT ./2L_indeg.png
-INPUT 2L_indeg.png
-INPUT ./2L_outdeg.png
-INPUT ./2L_outdeg.png
-INPUT 2L_outdeg.png
-INPUT ./3S_indeg.png
-INPUT ./3S_indeg.png
-INPUT 3S_indeg.png
-INPUT ./3S_outdeg.png
-INPUT ./3S_outdeg.png
-INPUT 3S_outdeg.png
-INPUT ./3L_indeg.png
-INPUT ./3L_indeg.png
-INPUT 3L_indeg.png
-INPUT ./3L_outdeg.png
-INPUT ./3L_outdeg.png
-INPUT 3L_outdeg.png
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-OUTPUT report.xdv
-INPUT ./1S_svd.png
-INPUT ./1S_svd.png
-INPUT 1S_svd.png
-INPUT ./1L_svd.png
-INPUT ./1L_svd.png
-INPUT 1L_svd.png
-INPUT ./2S_svd.png
-INPUT ./2S_svd.png
-INPUT 2S_svd.png
-INPUT ./2L_svd.png
-INPUT ./2L_svd.png
-INPUT 2L_svd.png
-INPUT ./3S_svd.png
-INPUT ./3S_svd.png
-INPUT 3S_svd.png
-INPUT ./3L_svd.png
-INPUT ./3L_svd.png
-INPUT 3L_svd.png
-INPUT report.aux
+PWD d:/Lee Geonju/�б�/lecture note, syllabus/21 fall/�׷��� ���̴� �� �Ҽ� ��Ʈ��ũ �м�/HW/hw1
+INPUT c:/texlive/2020/texmf.cnf
+INPUT c:/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/report.tex
+OUTPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/report.log
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/report.aux
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/report.aux
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/report.aux
+OUTPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/report.aux
+INPUT c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_indeg.png
+OUTPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/report.pdf
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_indeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_outdeg.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_outdeg.png
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/1L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/2L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3S_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/3L_svd.png
+INPUT d:/Lee Geonju/학교/lecture note, syllabus/21 fall/그래프 마이닝 및 소셜 네트워크 분석/HW/hw1/report.aux
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb

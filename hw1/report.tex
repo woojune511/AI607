@@ -5,6 +5,7 @@
 
 \title{AI607 Homework 1 Report}
 \author{20214487 Geonju Lee}
+\date{}
 
 \begin{document}
 
@@ -43,7 +44,10 @@
 
 \section{Analysis}
 
-The degree distribution follows binomial distribution for S1 and S2, but not for S3; $G_{3,S}$ and $G_{3,L}$ have degree distribution similar to wave form. % power law degree distribution?
-In S1 and S2, the probabilities $p_a,p_b,p_c,p_d$ are equal or similar, while they are unequally distributed in S3.
+For S1, the degree distribution is just a simple normal distribution, since $p_a,p_b,p_c,p_d$ are equal. For S2, the degree distribution seems to follow the power law.
+For S3, the degree distribution roughly follows the power law, however, it fluctuates severely, having some 'peaks' in the distribution.
+This is because, as the probabilities differ, the expected degrees differ exponentially.
 
+In terms of component size, since the ratio between the numbers of nodes and edges are large (for 'small' graphs, $N=256$, $E=2,000$, and for 'large' graphs, $N=16,384$, $E=200,000$), the graphs are likely to have a giant component that contains most of the $N$ nodes.
+To be more specific, $G_{1,S},G_{1,L}$, simple random graphs will have edges equally distributed over nodes, while $G_{3,S},G_{3,L}$, kronecker graphs with unbalanced probability over the quadrants, are likely to have 'core-periphery' structure.
 \end{document}
